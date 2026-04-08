@@ -9,7 +9,7 @@ Welcome to the **Air Force OATTS** organization! Home of OATTS (Official AFOQT &
 OATTS is a downloadable learning application built to support students and test-takers in concept familiarization for the AFOQT (Air Force Officer Qualifying Test) and TBAS (Test of Basic Aviation Skills). As an **offline LMS** (Learning Management System), it delivers SCORM-compliant content without requiring internet connectivity.
 
 This organization serves dual purposes:
-- **Educational**: Helping students prepare for crucial Air Force qualifications
+- **Educational**: Helping students familiarize with various concepts prior to Air Force tests
 - **Research**: Supporting the United States Air Force in developing improved placement and qualifying tests
 
 ---
@@ -19,7 +19,7 @@ This organization serves dual purposes:
 ### [**OATTS** (`oatts`)](https://github.com/af-oatts/oatts)
 The main application—a desktop learning platform built with Tauri, React, and TypeScript.
 
-- **Purpose**: Full-featured offline LMS for AFOQT/TBAS preparation
+- **Purpose**: Full-featured offline LMS for AFOQT/TBAS familiarization
 - **Languages**: TypeScript (95.1%), Rust (4.8%)
 - **Key Technologies**:
   - **Tauri**: Desktop application framework
@@ -51,7 +51,7 @@ The official AF-OATTS web presence—a modern landing and download page.
 ### [**Content** (`content`)](https://github.com/af-oatts/content)
 Curriculum and learning modules for OATTS.
 
-- **Purpose**: Repository for test-prep content, lessons, quizzes, and SCORM packages
+- **Purpose**: Repository for test-familiarization content, lessons, quizzes, and SCORM packages
 - **Usage**: Included via git submodule in the main OATTS application
 
 [View Repository →](https://github.com/af-oatts/content)
