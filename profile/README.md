@@ -1,6 +1,6 @@
 # Air Force OATTS Organization
 
-Welcome to the **Air Force OATTS** organization! Home of OATTS (Official AFOQT & TBAS Test-familiarization Software), a cutting-edge learning platform designed to aid test-takers in preparation for critical assessments.
+Welcome to the **Air Force OATTS** organization! Home of OATTS (Official AFOQT & TBAS Test-familiarization Software), a cutting-edge learning platform designed to aid test-takers in familiarization prior to critical assessments.
 
 ---
 
