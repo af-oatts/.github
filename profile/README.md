@@ -68,11 +68,3 @@ macOS-specific installer utility for OATTS.
 [View Repository →](https://github.com/af-oatts/oatts-installer)
 
 ---
-
-### [**Keygen** (`keygen`)](https://github.com/af-oatts/keygen)
-Cryptographic key generation and management utility.
-
-- **Purpose**: Secure key generation for data encryption and export features
-- **Usage**: Used internally by OATTS for AES-256-GCM encryption
-
-[View Repository →](https://github.com/af-oatts/keygen)
